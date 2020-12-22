@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "bank.parameters.credit.limit.gold",
+      "type": "java.lang.String",
+      "description": "Description for bank.parameters.credit.limit.gold."
+  }
+] }
